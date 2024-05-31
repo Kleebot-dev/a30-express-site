@@ -4,7 +4,7 @@
   "description": "",
   "scripts": {
     "dev": "parcel src/index.html",
-    "prod": "parcel build src/index.html"
+    "build": "parcel build src/index.html"
   },
   "dependencies": {
     "@studio-freight/lenis": "^1.0.42",
@@ -17,3 +17,4 @@
     "parcel": "^2.12.0"
   }
 }
+
